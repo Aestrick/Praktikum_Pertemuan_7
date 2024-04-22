@@ -9,4 +9,4 @@ class bangunDatar{
     public:
 		float luas;
 
-		void input() { // methode input peresegi
+		void input() { // methode input peresegi panjang
