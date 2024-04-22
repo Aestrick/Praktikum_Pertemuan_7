@@ -10,3 +10,5 @@ class bangunDatar{
 		float luas;
 
 		void input() { // methode input peresegi panjang
+
+			cout << "Masukan Panjangnya = ";
